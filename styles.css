@@ -1,0 +1,24 @@
+h1 {
+    color:powderblue;
+}
+img:hover {
+    background-color: gold;
+}
+
+.bacon {
+    background-color: chartreuse;
+}
+body {
+    background-color: #eaf6f6;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px none none none;
+    width: 10%;
+    border-color: grey;
+    border-width: 5px;
+}
+h3 {
+    color: powderblue;
+}
